@@ -994,7 +994,7 @@ noise_strength = st.sidebar.slider(
 # ----------------------------------------------------------
 # Main app
 # ----------------------------------------------------------
-st.title("Texas Home Solar Forecast")
+st.title("Bill's Home Solar Forecast")
 st.write(
     "Enter a Texas ZIP code and basic rooftop solar settings. "
     "The app estimates current and forecasted home-scale solar generation."
